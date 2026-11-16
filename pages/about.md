@@ -16,7 +16,7 @@ My vision towards maintaining accurate clients' records led me to embark on deve
 
 My current project involves the Early Identification of Incorrect Clients' Records Using Machine Learning Techniques
 
-Outside of work and study, I think I am Good Dad!
+Outside of work and study, I think I am Good Husband & Dad!
 
 
 
