@@ -6,10 +6,14 @@ permalink: /about
 
 # Kleber's Data Analytics Portfolio
 
-Welcome to my portfolio
+Welcome to my portfolio.
 
-I am developing skills in Python, Tableau, machine learning and data visualisation
+I am Djahane Kleber, I am based in London England and I work in the financial services industry.
 
-This site showcases projects completed as part of my data analytics learning journey
+My vision towards maintaining accurate Clients' records led me to embark on developing my skills in Python, Tableau, machine learning and data visualization towards better outcomes.
+
+Outside of work and study, I think I am Good Dad!
+
+
 
 
